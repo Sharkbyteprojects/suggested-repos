@@ -1,11 +1,14 @@
 {
-    "version": 1.101,
+    "version": 1.102,
     "repos":[
         {"name": "suggested-repos", "desc": "List of some Repositorys", "link": "https://github.com/Sharkbyteprojects/suggested-repos"},
         {"name": "shredFile", "desc": "Shred files ", "link": "https://github.com/Sharkbyteprojects/shredFile"},
         {"name": "asynCmd", "desc": "Run two commands asyncron", "link": "https://github.com/Sharkbyteprojects/asynCmd"},
         {"name": "Small-todo-Server", "desc": "A little, Docker based ToDo App", "link": "https://github.com/Sharkbyteprojects/Small-todo-Server"},
         {"name": "BaseUri", "desc": "Upload a file and you will get the Base Encoded string", "link": "https://github.com/Sharkbyteprojects/BaseUri"},
-        {"name": "BlogShark", "desc": "The official Code from bit.ly/BlogShark2", "link": "https://github.com/Sharkbyteprojects/BlogShark"}
+        {"name": "BlogShark", "desc": "The official Code from bit.ly/BlogShark2", "link": "https://github.com/Sharkbyteprojects/BlogShark"},
+        {"name": "SharkMon", "desc": "Get Information about your OS", "link": "https://github.com/Sharkbyteprojects/SharkMon"},
+        {"name": "Remove-Command-History", "desc": "Remove the History from your Command Shell with simple Scripts", "link": "https://github.com/Sharkbyteprojects/Remove-Command-History"},
+        {"name": "SharkServe", "desc": "Advanced Dev Server for your webApp", "link": "https://github.com/Sharkbyteprojects/sharkserve"}
     ]
 }
