@@ -1,6 +1,6 @@
 {
     "version": 1,
     "repos":[
-        {"name": "reposlist", "desc": "List of some Repositorys", "link": "#"}
+        {"name": "suggested-repos", "desc": "List of some Repositorys", "link": "https://github.com/Sharkbyteprojects/suggested-repos"}
     ]
 }
