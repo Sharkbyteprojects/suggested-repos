@@ -1,9 +1,11 @@
 {
-    "version": 1.1,
+    "version": 1.101,
     "repos":[
         {"name": "suggested-repos", "desc": "List of some Repositorys", "link": "https://github.com/Sharkbyteprojects/suggested-repos"},
         {"name": "shredFile", "desc": "Shred files ", "link": "https://github.com/Sharkbyteprojects/shredFile"},
         {"name": "asynCmd", "desc": "Run two commands asyncron", "link": "https://github.com/Sharkbyteprojects/asynCmd"},
-        {"name": "Small-todo-Server", "desc": "A little, Docker based ToDo App", "link": "https://github.com/Sharkbyteprojects/Small-todo-Server"}
+        {"name": "Small-todo-Server", "desc": "A little, Docker based ToDo App", "link": "https://github.com/Sharkbyteprojects/Small-todo-Server"},
+        {"name": "BaseUri", "desc": "Upload a file and you will get the Base Encoded string", "link": "https://github.com/Sharkbyteprojects/BaseUri"},
+        {"name": "BlogShark", "desc": "The official Code from bit.ly/BlogShark2", "link": "https://github.com/Sharkbyteprojects/BlogShark"}
     ]
 }
