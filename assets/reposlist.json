@@ -1,6 +1,7 @@
 {
-    "version": 1.1033,
+    "version": 1.2,
     "repos":[
+        {"name": "SharkServe", "desc": "Advanced Dev Server for your webApp", "link": "https://github.com/Sharkbyteprojects/sharkserve"},
         {"name": "PasteShark", "desc": "Paste big Text for online link", "link": "https://github.com/Sharkbyteprojects/PasteShark"},
         {"name": "suggested-repos", "desc": "List of some Repositorys", "link": "https://github.com/Sharkbyteprojects/suggested-repos-sourceCode"},
         {"name": "shredFile", "desc": "Shred files ", "link": "https://github.com/Sharkbyteprojects/shredFile"},
@@ -10,7 +11,6 @@
         {"name": "BlogShark", "desc": "The official Code from bit.ly/BlogShark2", "link": "https://github.com/Sharkbyteprojects/BlogShark"},
         {"name": "SharkMon", "desc": "Get Information about your OS", "link": "https://github.com/Sharkbyteprojects/SharkMon"},
         {"name": "Remove-Command-History", "desc": "Remove the History from your Command Shell with simple Scripts", "link": "https://github.com/Sharkbyteprojects/Remove-Command-History"},
-        {"name": "SharkServe", "desc": "Advanced Dev Server for your webApp", "link": "https://github.com/Sharkbyteprojects/sharkserve"},
         {"name": "express-no-tor", "desc": "Block some Tor Clients with your Express application", "link": "https://github.com/Sharkbyteprojects/express-no-tor"}
     ]
 }
