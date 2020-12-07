@@ -15,6 +15,7 @@
         {"name": "BlogShark", "desc": "The official Code from bit.ly/BlogShark2", "link": "https://github.com/Sharkbyteprojects/BlogShark"},
         {"name": "SharkMon", "desc": "Get Information about your OS", "link": "https://github.com/Sharkbyteprojects/SharkMon"},
         {"name": "Remove-Command-History", "desc": "Remove the History from your Command Shell with simple Scripts", "link": "https://github.com/Sharkbyteprojects/Remove-Command-History"},
+	{"name": "SharkWrite 3", "desc": "The 3rd version of the text editor sharkwrite with automatic saving", "link": "https://github.com/Sharkbyteprojects/SharkWrite-3"},
         {"name": "express-no-tor", "desc": "Block some Tor Clients with your Express application", "link": "https://github.com/Sharkbyteprojects/express-no-tor"}
     ]
 }
