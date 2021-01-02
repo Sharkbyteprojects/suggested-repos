@@ -1,21 +1,23 @@
 {
-    "version": 1.5,
+    "version": 1.6,
     "repos":[
         {"name": "PasteShark", "desc": "Paste big Text for online link", "link": "https://github.com/Sharkbyteprojects/PasteShark"},
         {"name": "suggested-repos", "desc": "List of some Repositorys", "link": "https://github.com/Sharkbyteprojects/suggested-repos-sourceCode"},
         {"name": "SharkServe", "desc": "Advanced Dev Server for your webApp", "link": "https://github.com/Sharkbyteprojects/sharkserve"},
-	{"name": "regular-expression-file-replacer", "desc": "search with regex in file line per line and replace it. Console App", "link": "https://github.com/Sharkbyteprojects/regular-expression-file-replacer"},
         {"name": "cpy-t", "desc": "Small, nodejs based, Command line, Copy tool", "link": "https://github.com/Sharkbyteprojects/cpy-t"},
         {"name": "pdf-js-test", "desc": "Test if you PDF reader support JS", "link": "https://github.com/Sharkbyteprojects/pdf-js-test"},
         {"name": "protenzcalcsh", "desc": "Calc 2³ 4² and more", "link": "https://github.com/Sharkbyteprojects/protenzcalcsh"},
         {"name": "shredFile", "desc": "Shred files ", "link": "https://github.com/Sharkbyteprojects/shredFile"},
         {"name": "asynCmd", "desc": "Run two commands asyncron", "link": "https://github.com/Sharkbyteprojects/asynCmd"},
+	{"name": "SharkWrite 3", "desc": "The 3rd Version of Sharkwrite (New Version, Based not on other Versions)", "link": "https://github.com/Sharkbyteprojects/SharkWrite-3"},
         {"name": "Small-todo-Server", "desc": "A little, Docker based ToDo App", "link": "https://github.com/Sharkbyteprojects/Small-todo-Server"},
         {"name": "BaseUri", "desc": "Upload a file and you will get the Base Encoded string", "link": "https://github.com/Sharkbyteprojects/BaseUri"},
         {"name": "BlogShark", "desc": "The official Code from bit.ly/BlogShark2", "link": "https://github.com/Sharkbyteprojects/BlogShark"},
         {"name": "SharkMon", "desc": "Get Information about your OS", "link": "https://github.com/Sharkbyteprojects/SharkMon"},
         {"name": "Remove-Command-History", "desc": "Remove the History from your Command Shell with simple Scripts", "link": "https://github.com/Sharkbyteprojects/Remove-Command-History"},
 	{"name": "SharkWrite 3", "desc": "The 3rd version of the text editor sharkwrite with automatic saving", "link": "https://github.com/Sharkbyteprojects/SharkWrite-3"},
-        {"name": "express-no-tor", "desc": "Block some Tor Clients with your Express application", "link": "https://github.com/Sharkbyteprojects/express-no-tor"}
+        {"name": "express-no-tor", "desc": "Block some Tor Clients with your Express application", "link": "https://github.com/Sharkbyteprojects/express-no-tor"},
+	{"name": "Mobile Input Keys", "desc": "Use your Mobile Device to Type something or play basic Games", "link": "https://github.com/Sharkbyteprojects/Windows-Remote-Input-from-Android-Mobile"},
+	{"name": "regular-expression-file-replacer", "desc": "search with regex in file line per line and replace it. Console App", "link": "https://github.com/Sharkbyteprojects/regular-expression-file-replacer"}
     ]
 }
